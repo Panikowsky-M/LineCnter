@@ -1,0 +1,10 @@
+D:\Документы\Лабораторные-работы-проц-прог\LineCnt\LineCnt\bin\Debug\LineCnt.exe.config
+D:\Документы\Лабораторные-работы-проц-прог\LineCnt\LineCnt\bin\Debug\LineCnt.exe
+D:\Документы\Лабораторные-работы-проц-прог\LineCnt\LineCnt\bin\Debug\LineCnt.pdb
+D:\Документы\Лабораторные-работы-проц-прог\LineCnt\LineCnt\obj\Debug\LineCnt.csprojAssemblyReference.cache
+D:\Документы\Лабораторные-работы-проц-прог\LineCnt\LineCnt\obj\Debug\LineCnt.Form1.resources
+D:\Документы\Лабораторные-работы-проц-прог\LineCnt\LineCnt\obj\Debug\LineCnt.Properties.Resources.resources
+D:\Документы\Лабораторные-работы-проц-прог\LineCnt\LineCnt\obj\Debug\LineCnt.csproj.GenerateResource.cache
+D:\Документы\Лабораторные-работы-проц-прог\LineCnt\LineCnt\obj\Debug\LineCnt.csproj.CoreCompileInputs.cache
+D:\Документы\Лабораторные-работы-проц-прог\LineCnt\LineCnt\obj\Debug\LineCnt.exe
+D:\Документы\Лабораторные-работы-проц-прог\LineCnt\LineCnt\obj\Debug\LineCnt.pdb
